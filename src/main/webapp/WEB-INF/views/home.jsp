@@ -17,7 +17,7 @@
 <a href="./qna/qnaView">Go qna view</a>
 <a href="./qna/qnaList">Go qna list</a>
 <h3>Master</h3>
-
+	<h3>git hub</h3>
 <img src="./resources/images/dog.jpg"><!--  Spring은 모든 요청은 컨트롤러를 거쳐가야한다  -->
 <img src="./etc/dog.jpg">
 
